@@ -2,6 +2,12 @@
   "name": "onlyauth",
   "version": "0.1.2",
   "description": "OnlyAuth 2FA API Javascript Library",
+  "keywords": ["2fa", "2fa api", "mfa", "two factor auth api", "2fa sdk"],
+  "homepage": "https://www.onlyauth.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onlyauth-io/onlyauth-javascript.git"
+  },
   "license": "MIT",
   "main": "dist/index.js",
   "scripts": {
